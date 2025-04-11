@@ -1,0 +1,7 @@
+stack/operation/Add.class
+stack/calculator/RPN.class
+stack/operation/Multiply.class
+stack/Stack.class
+stack/operation/Subtract.class
+stack/operation/Divide.class
+stack/operation/Operation.class
